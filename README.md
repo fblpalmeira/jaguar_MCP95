@@ -6,7 +6,7 @@ Visualization of Minimum Convex Polygon (MCP 95%) of jaguars in Brazilian Pantan
 - [Database `.csv`](https://github.com/fblpalmeira/jaguar_interactivemap/blob/main/data/jaguar_movement_data.csv)
 - [Database `.xlsx`](https://github.com/fblpalmeira/jaguar_interactivemap/blob/main/data/Jaguar_additional%20information.xlsx)
 
-<img src="">
+<img src="https://github.com/fblpalmeira/jaguar_adehabitatHR/blob/main/data/jaguar_adehabitatHR.png">
 
 RPubs Page: 
 
