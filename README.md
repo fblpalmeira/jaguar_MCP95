@@ -1,6 +1,6 @@
 ## #30DayMapChallenge - Day 16: Minimal 
 
-Calculating the Minimum Convex Polygon, a traditional and most widely used estimator of home range areas.
+Using the Minimum Convex Polygon, a traditional estimator to calculate home range areas.
 
 - [Script `.R`](https://github.com/fblpalmeira/jaguar_MCP95/blob/main/data/jaguars_MCP95.R)
 - [Database `.csv`](https://github.com/fblpalmeira/jaguar_interactivemap/blob/main/data/jaguar_movement_data.csv)
