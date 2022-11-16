@@ -10,7 +10,7 @@ Calculating the Minimum Convex Polygon, a traditional and most widely used estim
 
 RPubs Page: https://rpubs.com/fblpalmeira/jaguar_MCP95
 
-References: 
+## References: 
 
 Calenge, C. 2006. [The package adehabitat for the R software: a tool for the analysis of space and habitat use by animals.](https://doi.org/10.1016/j.ecolmodel.2006.03.017) Ecological Modelling, 197, 516-519
 
