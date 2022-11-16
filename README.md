@@ -6,7 +6,7 @@ Calculating the Minimum Convex Polygon, a traditional and most widely used estim
 - [Database `.csv`](https://github.com/fblpalmeira/jaguar_interactivemap/blob/main/data/jaguar_movement_data.csv)
 - [Database `.xlsx`](https://github.com/fblpalmeira/jaguar_interactivemap/blob/main/data/Jaguar_additional%20information.xlsx)
 
-<img src="https://github.com/fblpalmeira/jaguar_MCP95/blob/main/data/jaguar_adehabitatHR.png">
+<img src="https://github.com/fblpalmeira/jaguar_MCP95/blob/main/data/jaguar_MCP95.png">
 
 RPubs Page: https://rpubs.com/fblpalmeira/jaguar_MCP95
 
