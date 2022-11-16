@@ -1,6 +1,6 @@
 ## #30DayMapChallenge - Day 16: Minimal 
 
-Visualization of Minimum Convex Polygon (MCP 95%) of jaguars in Brazilian Pantanal from a GPS-based movement dataset [(Morato el al 2018)](http://doi.org/10.1002/ecy.2379). 
+Calculating the Minimum Convex Polygon, a traditional and most widely used estimator of home range areas.
 
 - [Script `.R`](https://github.com/fblpalmeira/jaguar_adehabitatHR/blob/main/data/jaguars_adehabitat_polygons.R)
 - [Database `.csv`](https://github.com/fblpalmeira/jaguar_interactivemap/blob/main/data/jaguar_movement_data.csv)
