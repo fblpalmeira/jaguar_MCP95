@@ -2,7 +2,7 @@
 
 Calculating the Minimum Convex Polygon, a traditional and most widely used estimator of home range areas.
 
-- [Script `.R`](https://github.com/fblpalmeira/jaguar_MCP95/blob/main/data/jaguars_adehabitat_polygons.R)
+- [Script `.R`](https://github.com/fblpalmeira/jaguar_MCP95/blob/main/data/jaguars_MCP95.R)
 - [Database `.csv`](https://github.com/fblpalmeira/jaguar_interactivemap/blob/main/data/jaguar_movement_data.csv)
 - [Database `.xlsx`](https://github.com/fblpalmeira/jaguar_interactivemap/blob/main/data/Jaguar_additional%20information.xlsx)
 
